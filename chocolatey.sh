@@ -1,6 +1,4 @@
 ### Install file for package handler Chocolatey for Windows environments
-###
-###
 
 # Install Chocolatey
 iwr -useb community.chocolatey.org/install.ps1 | iex
