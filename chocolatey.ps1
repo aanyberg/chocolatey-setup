@@ -18,4 +18,3 @@ choco install bulk-crap-uninstaller
 
 # Install pyenv for Windows
 choco install pyenv-win
-pyenv update
